@@ -1,0 +1,82 @@
+#bx{
+				width: 1100px;
+				height: 2250px;
+				margin: auto;
+				background-color: white;
+			}
+			body{
+				margin: 0;
+				padding: 0;
+				background-color: rgb(240,240,240);
+			}
+			nav{
+				width: 1100px;
+				height: 60px;
+				background-color: rgb(176,101,90);
+				margin-top: -60px;
+				position: relative;
+			}
+			nav li{
+				display: inline-block;
+				margin-left: 40px;
+				margin-top: 5px;
+				height: 40px;
+				width: 110px;
+				padding-top: 10px;
+				padding-left: 15px;
+			}
+			a{
+				font-family: cako;
+				font-size: 23px;
+				color: white;
+				text-decoration: none;
+			}
+			nav li:hover{
+				background-color: grey;
+				border-radius: 10px 10px 10px 10px;
+			}
+			
+			h3{
+				margin-left: 470px;
+				margin-top: 30px;
+				color: rgb(143,29,34);
+				font-family: ogg-roman;
+			}
+			
+			.content-zi3,.content-zi4{
+				width: 1000px;
+				margin-left: 50px;
+				font-family: ogg-roman;
+				text-align: justify;
+			}
+			
+			.img60{
+				margin-left: 50px;
+				margin-top: 20px;
+				border-radius: 10px 10px 10px 10px;
+			}
+			.img61,.img62,.img63{
+				margin-left: 15px;
+				border-radius: 10px 10px 10px 10px;
+			}
+			.img64{
+				margin-left: 50px;
+				margin-top: 20px;
+				border-radius: 10px 10px 10px 10px;
+			}
+			.img65,.img66{
+				margin-left: 5px;
+				border-radius: 10px 10px 10px 10px;
+			}
+			.footer{
+				width: 1100px;
+				height: 100px;
+				background-color: rgb(176,101,90);
+				margin-top: 45px;
+			}
+			
+			.footer-zi{
+				text-align: center;
+				margin-top: -30px;
+				color: white;
+			}
